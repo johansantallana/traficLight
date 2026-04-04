@@ -4,7 +4,6 @@
     border-radius: 50%;
     cursor: grab;
 }
-
 .light:active{
     cursor: grabbing;
 }
