@@ -3,11 +3,9 @@ body,
 #root{
     height: 100%;
 }
-
 body{
     margin: 0;
 }
-
 #root{
     display: grid;
     align-content: center;
